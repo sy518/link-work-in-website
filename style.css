@@ -1,0 +1,18 @@
+body {
+    background-image:url(./Green-Nature-Butterfly-Background-.jpg) ;
+    background-position: cover;
+    background-repeat: repeat;
+    font-family: cursive;
+    font-style: italic;
+      color: rgb(94, 104, 5) ;
+      background-color: rgb(54, 104, 5) ;
+    a:link {
+          color: rgb(241, 99, 4);
+          text-decoration: none;}
+    a:visited {
+        color: rgb(241, 99, 4);
+        ;}
+    a:focus {
+        color:rgb(22, 21, 17)
+    }    
+}
